@@ -1,3 +1,7 @@
 Hello world
+<<<<<<< HEAD
 Hello world
 This is branch 2
+=======
+This is branch 3
+>>>>>>> branch3
